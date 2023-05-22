@@ -1,4 +1,4 @@
-# SeaBloom
+# SeaBloom 🪸🌊
 
 The world is changing rapidly, and not for the better. Climate change has become one of the most pressing issues facing our planet today, and the consequences are all around us. Perhaps one of the most overlooked but significant impacts of climate change is its effect on our oceans - especially on our reefs.
 

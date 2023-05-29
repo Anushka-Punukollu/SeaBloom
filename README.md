@@ -9,4 +9,5 @@ Our future is on the line every time coral is bleached since it means all the pe
 This is when SeaBloom "bloomed", a system which uses AI models (CNNs and RNNs) + LiDAR to detect and pinpoint healthy corals to later selectively breed and transplant. As we dive deeper into the future, I hope SeaBloom will help us nurture our connection with the oceans and our Earth. Together, we can forge a path towards a more sustainable and resilient future for our oceans and the remarkable coral reefs that grace their depths.
 
 If you are interested in this project feel free to check out my youtube videos and medium article on SeaBloom! 
+
 Article: https://medium.com/@AnushkaPunukollu/seabloom-fab26eec2aea

@@ -12,6 +12,8 @@ If you are interested in this project feel free to check out my youtube videos a
 
 ---------
 
+### To Learn More 💡
+
 **Article:** https://medium.com/@AnushkaPunukollu/seabloom-fab26eec2aea                                                                        
 
 **Video:** https://www.youtube.com/watch?v=FCbAGBcr_CM 

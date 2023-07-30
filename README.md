@@ -10,9 +10,9 @@ This is when SeaBloom "bloomed", a system which uses AI models (CNNs and RNNs) +
 
 If you are interested in this project feel free to check out my youtube videos and medium article on SeaBloom! 
 
----------
 
-### To Learn More 💡
+
+## To Learn More 💡
 
 **Article:** https://medium.com/@AnushkaPunukollu/seabloom-fab26eec2aea                                                                        
 
